@@ -104,7 +104,8 @@ ascii = ("""
 ██║╚██╗██║██╔══╝     ██║   ██║██║╚██╗██║██╔══██║██║     
 ██║ ╚████║███████╗   ██║   ██║██║ ╚████║██║  ██║███████╗
 ╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ 
-                      ⓒ copyright 2026, all rights reserved owned by TeamStella / github.com/TeamStella/proxymanager                                                                            
+                      ⓒ copyright 2026, all rights reserved owned by TeamStella / github.com/TeamStella/proxymanager
+                      Also, you can check all my repositorys on https://lunargate.xyz/github  
 """)
 
 if __name__ == "__main__":
@@ -118,4 +119,5 @@ if __name__ == "__main__":
     print("Alive proxies saved to 'alive_proxies.txt'")
     print("Press Enter to exit...")
     input()
+
     
